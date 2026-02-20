@@ -1,3 +1,9 @@
+"""
+THE CHATGPT REFERENCE, DO NOT USE.
+"""
+
+
+
 import tkinter as tk
 import random
 import threading

@@ -1,0 +1,6 @@
+The idea is a simple application to help with Badminton Footwork Training
+
+Given a duration of training/set, the application will choose a random corner.
+Your task is to footwork your way to the corner.
+
+For now it is completely random.
